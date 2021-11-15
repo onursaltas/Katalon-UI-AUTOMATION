@@ -1,0 +1,12 @@
+Check "Continue Shopping" button functionality test case
+
+Steps:
+1. Open Browser;
+2. Navigate to https://www.saucedemo.com/cart.html;
+3. Go to items inventory page using the "Continue Shopping" button;
+4. Verify that you are on the items inventory page.
+
+Expected result: user is able to successfully use the "Continue Shopping" button from cart.
+
+Data set: 
+No data required.

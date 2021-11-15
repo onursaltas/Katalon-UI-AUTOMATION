@@ -1,0 +1,26 @@
+Checkout test case
+
+Steps:
+1. Open Browser;
+2. Navigate to https://www.saucedemo.com;
+3. Login using "standard_user";
+4. Click on the item you want to buy;
+5. Add item to cart;
+6. Go to cart;
+7. Verify if the desired item was added;
+8. Click "Checkout";
+9. Fill in the checkout information fields;
+10. Click "Continue";
+11. Verify the presence of the correct item in the checkout overview;
+12. Click "Finish" to end the order placement;
+13. Verify that the order was successfully placed by checking the thank you note.
+
+Expected result: user is able to successfully finish placing the order when logged in.
+
+Data set: 
+Username: standard_user
+Password: secret_sauce
+First name: Lily
+Last name: White
+Zip/Postal code: 12345
+		

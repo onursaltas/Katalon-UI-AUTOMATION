@@ -1,0 +1,17 @@
+Add to cart test case
+
+Steps:
+1. Open Browser;
+2. Navigate to saucedemo.com;
+3. Login using "standard_user";
+4. Click on the item you want;
+5. Add item to cart;
+6. Go to cart;
+7. Verify if the item was added.
+
+Expected result: user is able to successfully add item to cart.
+
+Data set: 
+username: standard_user
+password: secret_sauce
+		

@@ -1,0 +1,18 @@
+Add to cart several pieces of the same item test case
+
+Steps:
+1. Open Browser;
+2. Navigate to www.automationpractice.com;
+3. Click "Sign in";
+4. Login using email address and password; 
+5. Click on the "Home" button;
+6. Select an item;
+7. Increase quantity item to 3;
+8. Click "Add to cart" button;
+9. Verify that the right item and the right quantity were added to the cart.
+
+Expected result: user is able to add to the shopping cart several pieces of the same item.
+
+Data set: 
+email address: 12345@yahoo.com
+password: 12345		

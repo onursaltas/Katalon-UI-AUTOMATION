@@ -1,0 +1,18 @@
+Contact customer service test case
+
+Steps:
+1. Open Browser;
+2. Navigate to www.automationpractice.com;
+3. Click "Sign in";
+4. Login using email address and password; 
+5. Click on "Contact us" from the page header;
+6. Fill in the message information fields that are listed on the left side of the page;
+7. Write the desired text inside the "Message" box beside the information fields;
+8. Click "Send" button;
+9. Verify that your message has been sent.
+
+Expected result: user is able to send messages to customer service.
+
+Data set: 
+email address: 12345@yahoo.com
+password: 12345		

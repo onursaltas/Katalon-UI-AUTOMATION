@@ -1,0 +1,14 @@
+Check item selection criteria functionality low to high test case
+
+Steps:
+1. Open Browser;
+2. Navigate to https://www.saucedemo.com/;
+3. Login using "standard_user";
+4. Select sorting option price low to high;
+5. Verify that the items are displayed in ascending price order.
+
+Expected result: user is able to sort items in ascending price order.
+
+Data set: 
+Username: standard_user
+Password: secret_sauce		

@@ -1,0 +1,20 @@
+Add to cart multiple items test case
+
+Steps:
+1. Open Browser;
+2. Navigate to saucedemo.com;
+3. Login using "standard_user";
+4. Click on the item you want;
+5. Add item to cart;
+6. Go back to items inventory page using "back" button;
+7. Click on another item;
+8. Add item to cart;
+9. Go to cart;
+10. Verify if the desired items were added to cart.
+
+Expected result: user is able to successfully add multiple items to cart.
+
+Data set: 
+username: standard_user
+password: secret_sauce
+		

@@ -1,0 +1,22 @@
+Checkout only after a product is added to cart test case
+
+Steps:
+1. Open Browser;
+2. Navigate to https://www.saucedemo.com/;
+3. Login using "standard_user";
+4. Click on "Your cart";
+5. Click "Checkout";
+6. Fill in the checkout information fields;
+7. Click "Continue";
+8. Click "Finish";
+9. Verify that the order confirmation message is not received.
+
+Expected result: user is not able to finish the order placement if an item is not added to shopping cart.
+
+Data set: 
+Username: standard_user
+Password: secret_sauce
+First name: Lily
+Last name: White
+Zip/Postal code: 12345
+		

@@ -1,0 +1,15 @@
+Login/Logout test case
+
+Steps:
+1. Open Browser;
+2. Navigate to www.automationpractice.com;
+3. Click "Sign in";
+4. Login using email address and password; 
+5. Verify that you are logged in;
+6. Click "Sign out".
+
+Expected result: user is able to Login and Logout.
+
+Data set: 
+email address: 12345@yahoo.com
+password: 12345		

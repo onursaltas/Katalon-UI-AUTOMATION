@@ -1,0 +1,18 @@
+Add a new address test case
+
+Steps:
+1. Open Browser;
+2. Navigate to www.automationpractice.com;
+3. Click "Sign in";
+4. Login using email address and password; 
+5. Click on the "My Addresses" button;
+6. Click on "Add a new address";
+7. Fill in the address information fields;
+8. Click on the "Save" button;
+9. Verify that the new address was created.
+
+Expected result: user is able to add a new address.
+
+Data set: 
+email address: 12345@yahoo.com
+password: 12345		

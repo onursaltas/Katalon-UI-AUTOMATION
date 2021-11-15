@@ -1,0 +1,23 @@
+Checkout only if Loggedin test case
+
+Steps:
+1. Open Browser;
+2. Navigate to https://www.saucedemo.com/inventory.html;
+3. Click on the item you want to buy;
+4. Add item to cart;
+5. Go to cart;
+6. Verify if the desired item was added;
+7. Click "Checkout";
+8. Fill in the checkout information fields;
+9. Click "Continue";
+10. Verify the presence of the correct item in the checkout overview;
+11. Click "Finish" to end the order placement;
+12. Verify that the order confirmation message is not received.
+
+Expected result: user is able to successfully place an order only if he is loggedin.
+
+Data set: 
+First name: Lily
+Last name: White
+Zip/Postal code: 12345
+		

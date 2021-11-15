@@ -1,0 +1,17 @@
+Create new wishlist test case
+
+Steps:
+1. Open Browser;
+2. Navigate to www.automationpractice.com;
+3. Click "Sign in";
+4. Login using email address and password; 
+5. Click on "My Wishlists";
+6. Fill in the "Name" field;
+7. Click on the "Save" button;
+8. Verify that the new wishlist was created.
+
+Expected result: user is able to create a new wishlist.
+
+Data set: 
+email address: 12345@yahoo.com
+password: 12345		

@@ -1,0 +1,17 @@
+Remove item from cart test case
+
+Steps:
+1. Open Browser;
+2. Navigate to https://www.saucedemo.com/inventory.html;
+3. Click on the item you want;
+4. Add item to cart;
+5. Go to cart;
+6. Verify if the desired item was added in the shopping cart;
+7. Remove item from cart by clicking the "Remove" button;
+8. Verify if the item was removed from cart.
+
+Expected result: user is able to successfully remove item from shopping cart.
+
+Data set: 
+No data required.
+		

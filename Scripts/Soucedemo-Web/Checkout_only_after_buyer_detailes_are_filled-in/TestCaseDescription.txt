@@ -1,0 +1,32 @@
+Checkout only after buyer detailes are filled-in test case
+
+Steps:
+1. Open Browser;
+2. Navigate to https://www.saucedemo.com;
+3. Login using "standard_user";
+4. Click on the item you want to buy;
+5. Add item to cart;
+6. Go to cart;
+7. Verify if the desired item was added;
+8. Click "Checkout";
+9. Click "Continue";
+10. Verify the presence of first name error message;
+11. Fill in the "First Name" field;
+12. Click "Continue";
+13. Verify the presence of last name error message;
+14. Fill in the "Last Name" field;
+15. Click "Continue";
+16. Verify the presence of postal code error message;
+17. Fill in the "Zip/Postal Code" field;
+18. Click "Continue";
+19. Verify you reached the checkout page.
+
+Expected result: user is able to reach the checkout page only after he fills in the buyer information fields.
+
+Data set: 
+Username: standard_user
+Password: secret_sauce
+First name: Lily
+Last name: White
+Zip/Postal code: 12345
+		

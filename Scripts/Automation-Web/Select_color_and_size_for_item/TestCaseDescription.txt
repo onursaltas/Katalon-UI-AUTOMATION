@@ -1,0 +1,19 @@
+Select color and size for item test case
+
+Steps:
+1. Open Browser;
+2. Navigate to www.automationpractice.com;
+3. Click "Sign in";
+4. Login using email address and password; 
+5. Click on the "Home" button;
+6. Select an item;
+7. Select the desired item size;
+8. Verify that the desired item size was selected;
+9. Select the desired item color;
+10. Verify that the desired item color was selected.
+
+Expected result: user is able to select the desired item color and size.
+
+Data set: 
+email address: 12345@yahoo.com
+password: 12345		

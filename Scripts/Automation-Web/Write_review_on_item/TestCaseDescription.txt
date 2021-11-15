@@ -1,0 +1,19 @@
+Write review on item test case
+
+Steps:
+1. Open Browser;
+2. Navigate to www.automationpractice.com;
+3. Click "Sign in";
+4. Login using email address and password; 
+5. Click "Home" button;
+6. Select an item;
+7. Click on "Write a review";
+8. Fill in the "Title" and "Comment" fields;
+9. Click "Send";
+10. Verify that your review has been sent.
+
+Expected result: user is able to write reviews on items.
+
+Data set: 
+email address: 12345@yahoo.com
+password: 12345		
