@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure that the user can finish the order placement only if there is an existing product in the shopping cart.</description>
+   <name>Checkout_only_after_product_is_added_to_cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8b064f9-7bd6-48e6-a6e1-d3fe1c073223</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>phoneLessThen10Characters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84682bb3-b208-4af8-8070-7a27cd16c2e1</testCaseGuid>
+</TestCaseEntity>

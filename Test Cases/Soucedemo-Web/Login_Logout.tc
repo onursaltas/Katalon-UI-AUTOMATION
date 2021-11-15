@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login and Logout on saucedemo platform.</description>
+   <name>Login_Logout</name>
+   <tag>login</tag>
+   <comment></comment>
+   <testCaseGuid>fe007269-b147-4b5f-ad48-06bff2670521</testCaseGuid>
+</TestCaseEntity>

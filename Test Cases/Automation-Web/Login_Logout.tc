@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure that user is able to Login and Logout.</description>
+   <name>Login_Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ef7cb0d-1fc5-4459-9193-156a8c02f086</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure that the low to high selection functions correctly.</description>
+   <name>Check_item _selection_criteria_functionality_low_to_high</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4601869-97b3-4fe8-b25a-8406311280b4</testCaseGuid>
+</TestCaseEntity>

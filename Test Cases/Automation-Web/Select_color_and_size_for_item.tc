@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure that the user is able to select the desired item color and size.</description>
+   <name>Select_color_and_size_for_item</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4067bae1-f345-454c-913c-5acbdac5a6d4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure that the user is able to reach the checkout page only after he fills in the buyer information fields.</description>
+   <name>Checkout_only_after_buyer_detailes_are_filled-in</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6ccfe3f6-54d1-466e-b26a-02e422e0db65</testCaseGuid>
+</TestCaseEntity>

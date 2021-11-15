@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add to cart more than one item.</description>
+   <name>Add_to_cart_multiple_items</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fef946f3-6265-41a2-a2e0-185942e5a4db</testCaseGuid>
+</TestCaseEntity>

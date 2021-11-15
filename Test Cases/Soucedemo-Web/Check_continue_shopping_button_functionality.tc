@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checking if the &quot;continue shopping&quot; button if functional.</description>
+   <name>Check_continue_shopping_button_functionality</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa8b6e1b-8643-4936-8550-273581ebf241</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure that the user is able to add to cart multiple pieces of the same item.</description>
+   <name>Add_to_cart_several_pieces_of_the_same_item</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd985312-e34c-40f8-a550-6d15618aa114</testCaseGuid>
+</TestCaseEntity>

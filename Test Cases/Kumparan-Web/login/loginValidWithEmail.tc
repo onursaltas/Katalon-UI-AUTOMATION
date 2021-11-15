@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>loginValidWithEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8c35ab8-ce28-4fd1-a733-184598a000a1</testCaseGuid>
+</TestCaseEntity>

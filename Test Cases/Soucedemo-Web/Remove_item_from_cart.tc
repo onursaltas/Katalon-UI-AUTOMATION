@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Removal of item from shopping cart.</description>
+   <name>Remove_item_from_cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>649f61e5-6d63-4880-ac67-9a25c7f70bb2</testCaseGuid>
+</TestCaseEntity>
